@@ -23,7 +23,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    subtitle: What I do
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
